@@ -8,7 +8,7 @@
 # This script will help users to communicate and retrieve information from GitHub
 # Usage:
 #   Please provide your github token and rest api to the script as input
-# Hello abhishek this is dinesh, love you man
+# Hello abhishek this is dinesh, thank you man.
 ################################
 
 if [ ${#@} -lt 2 ]; then
